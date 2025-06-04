@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trang170296
 - 👀 I’m interested in studying, traveling
-- 🌱 I’m a manual & automation tester with 2 years experience
+- 🌱 I’m a manual & automation tester with 5 years experience
 - 📫 How to reach me: via mail trang170296@gmail.com
 
 <!---
